@@ -4,6 +4,11 @@ Nighthawk Pages is a project designed to support students in their Computer Scie
 
 GitHub Pages can be customized by the blogger to support computer science learnings as the student works through the pathway of using Javascript, Python/Flask, Java/Spring.  
 
+## Aaron Rubin Student Page
+
+https://aaron-rub.github.io/aaron-rub-2025/
+
+
 ## Student Requirements
 
 Del Norte HS students will be required to review their personal GitHub Pages at each midterm and final.  This review will contain a compilation of personal work performed within each significant grading period.
